@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body{
+    background: aqua;
+
+    font-family: 'Poppins', sans-serif;  
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orangered;
+}
+
+section{
+    display: flex;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.half-width{
+    padding-left: 5%;
+    width: 500px;
+}
+
+.batton{
+text-decoration: none;
+background-color: rgb(136, 255, 0);
+color: black;
+font-family: arial black;
+border-radius: 5px;
+padding: 10px 40px;
+font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
